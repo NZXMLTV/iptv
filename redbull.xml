@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "nzxmltv.dtd">
-<tv date="2020-04-13 14:47:20" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" source-info-name="NZXMLTV (Red Bull TV)" source-data-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" generator-info-url="https://nzxmltv.github.io/iptv/" generator-info-name="NZXMLTV Red Bull TV 1.0">
+<tv date="2020-04-16 02:28:42" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" source-info-name="NZXMLTV (Red Bull TV)" source-data-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" generator-info-url="https://nzxmltv.github.io/iptv/" generator-info-name="NZXMLTV Red Bull TV 1.0">
 <channel id="10001">
 <display-name lang="en">Red Bull TV</display-name>
 <url>https://www.redbull.com/int-en/channels/best-of-red-bull-stream</url>
@@ -10,239 +10,147 @@
 <lcn>10001</lcn>
 <!-- End NZXMLTV Custom Tags -->
 </channel>
-<programme start="20200413020107 +0000" stop="20200413023109 +0000" channel="10001">
-<title lang="en">Bomba Beach</title>
-<sub-title lang="en">A Puerto Rico dance trip</sub-title>
-<desc lang="en">Hosts Niki Awandee and Niek Traa connect with Puerto Rican locals to become their students, learn about the bomba dance style and its culture, and integrate them into their own style. Will they be able to live up to their teachers’ expectations?</desc>
-<category lang="en">Dance</category>
-<icon src="https://resources.redbull.tv/rrn:content:films:3b371e6f-95f9-5b52-bcf3-3cb826194822/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/films/bomba-beach-1</url>
-<episode-num system="redbull.com">episode/rrn:content:films:3b371e6f-95f9-5b52-bcf3-3cb826194822</episode-num>
+<programme start="20200415123057 +0000" stop="20200415140426 +0000" channel="10001">
+<title lang="en">Fandom</title>
+<sub-title lang="en">The Fantasy Football Movie</sub-title>
+<desc lang="en">Christian Slater narrates a look inside the fantasy football phenomenon, boasting more than 35 million players. From local leagues to high stakes challenges, fantasy football has transformed from a once-modest fan activity into a lucrative industry.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:films:319da1df-b9ba-5dd7-bb9a-81069e35f827/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/fandom</url>
+<episode-num system="redbull.com">episode/rrn:content:films:319da1df-b9ba-5dd7-bb9a-81069e35f827</episode-num>
 <rating system="Red Bull TV">
 <value>NR</value>
 </rating>
-<series-desc lang="en">Two young hip-hop strutters travel to Puerto Rico to explore the bomba dance style and the culture around it.</series-desc>
+<series-desc lang="en">Christian Slater narrates a look inside the massive phenomenon of fantasy football.</series-desc>
 </programme>
-<programme start="20200413023109 +0000" stop="20200413024926 +0000" channel="10001">
-<title lang="en">MX World</title>
-<sub-title lang="en">A new season begins</sub-title>
-<desc lang="en">As the 2019 MX campaign begins, there are contrasting fortunes for Jeffrey Herlings, Tom Vialle, Jorge Prado and Toni Cairoli. Find out how the season starts for each rider.</desc>
-<category lang="en">Motorbike Supermoto</category>
-<icon src="https://resources.redbull.tv/rrn:content:shows:b89f5248-4e06-52a3-a0bc-c4e41a46871a/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/episodes/mx-world-s2-e1</url>
-<episode-num system="redbull.com">episode/rrn:content:episode-videos:58238e64-d8dd-4820-a8a1-29bbe33fd23e</episode-num>
-<episode-num system="xmltv_ns">1.0.0</episode-num>
-<episode-num system="original-air-date">2020-04-13 05:13:56</episode-num>
-<episode-num system="redbull.com">show/rrn:content:shows:b89f5248-4e06-52a3-a0bc-c4e41a46871a</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">Go behind the scenes with motocross&apos;s top riders at the start of the 2019 season.</series-desc>
-</programme>
-<programme start="20200413024926 +0000" stop="20200413025346 +0000" channel="10001">
-<title lang="en">Mates in Alaska</title>
-<sub-title lang="en">Disc Golf and Slam Dunks</sub-title>
-<desc lang="en">When the weather doesn&apos;t cooperate for snowboarding, it&apos;s time to find other distractions. Jake and Roland spend a down day hanging out with some wolves, playing disc golf, riding old snowmobiles, and having a good-old fashioned Alaskan bonfire.</desc>
-<category lang="en">Snowboarding</category>
-<icon src="https://resources.redbull.tv/rrn:content:shows:f02f1212-1ec3-59d0-aa01-dbc62f89c264/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/episodes/disc-golf-and-slam-dunks-mates-in-alaska-s01-e04</url>
-<episode-num system="redbull.com">episode/rrn:content:episode-videos:21f3299a-cee3-5fe5-bb4c-085a4dc8b255</episode-num>
-<episode-num system="xmltv_ns">0.3.0</episode-num>
-<episode-num system="original-air-date">2020-04-13 05:31:50</episode-num>
-<episode-num system="redbull.com">show/rrn:content:shows:f02f1212-1ec3-59d0-aa01-dbc62f89c264</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">The snowboarding mates spend a day meeting the wildlife, playing disc golf, and racing vintage snowmobiles.</series-desc>
-</programme>
-<programme start="20200413025346 +0000" stop="20200413025844 +0000" channel="10001">
-<title lang="en">Mates in Alaska</title>
-<sub-title lang="en">Final Powder Sessions</sub-title>
-<desc lang="en">Snowboarders Jake and Roland spend their last days in Alaska doing what they came to do: ride epic terrain. The last lines of the trip confirm what they always suspected – that this was going to be a life-changing experience for them and their crew.</desc>
-<category lang="en">Snowboarding</category>
-<icon src="https://resources.redbull.tv/rrn:content:shows:f02f1212-1ec3-59d0-aa01-dbc62f89c264/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/episodes/final-powder-sessions-mates-in-alaska-s01-e05</url>
-<episode-num system="redbull.com">episode/rrn:content:episode-videos:a580ad37-563f-5c28-b4a3-03fa8e2558ae</episode-num>
+<programme start="20200415140426 +0000" stop="20200415140820 +0000" channel="10001">
+<title lang="en">Dakar Decoded</title>
+<sub-title lang="en">A look at the SxS and Quads category</sub-title>
+<desc lang="en">Take a look at the newest category of Dakar Rally, SxS and Quads, and the unveiling of the Red Bull team&apos;s OT3 which has been test driven by Dakar legends Nasser Al-Attiyah and Cyril Despres.</desc>
+<category lang="en">Rally Raid</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:b25065d2-98ef-432b-a5c6-fc0244fc0833/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/dakar-decoded-s1-e5</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:7163b003-1501-48d7-9960-5fc2d44e08eb</episode-num>
 <episode-num system="xmltv_ns">0.4.0</episode-num>
-<episode-num system="original-air-date">2020-04-13 05:36:10</episode-num>
-<episode-num system="redbull.com">show/rrn:content:shows:f02f1212-1ec3-59d0-aa01-dbc62f89c264</episode-num>
+<episode-num system="original-air-date">2020-04-14 21:51:40</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:b25065d2-98ef-432b-a5c6-fc0244fc0833</episode-num>
 <rating system="Red Bull TV">
 <value>NR</value>
 </rating>
-<series-desc lang="en">It&apos;s last call for snowfall as Jake and Roland spend their last days in Alaska riding as much as they can.</series-desc>
+<series-desc lang="en">Take a look at the newest category of Dakar Rally, SxS and Quads, and the unveiling of Red Bull team&apos;s OT3.</series-desc>
 </programme>
-<programme start="20200413025844 +0000" stop="20200413030823 +0000" channel="10001">
-<title lang="en">Epecuén</title>
-<sub-title lang="en">A venture into the ruins</sub-title>
-<desc lang="en">Tragedy struck the town of Epecuén 25 years ago when rains flooded the streets. Now, Danny MacAskill hops on his trials bike to explore the lost Argentinian town, which has been submerged for the majority of time since.</desc>
-<icon src="https://resources.redbull.tv/rrn:content:films:a5c81c76-c17a-506c-b7b3-1392a3af64c5/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/tv/film/AP-1K3H21RU91W11/epecuen</url>
-<episode-num system="redbull.com">episode/rrn:content:films:a5c81c76-c17a-506c-b7b3-1392a3af64c5</episode-num>
+<programme start="20200415140820 +0000" stop="20200415141051 +0000" channel="10001">
+<title lang="en">Dakar Decoded</title>
+<sub-title lang="en">A look at the Truck category</sub-title>
+<desc lang="en">Take a look at the Truck category of Dakar Rally featuring, of course, the legendary Russian Kamaz trucks. These monstrous vehicles can wrestle over even the toughest of terrains.</desc>
+<category lang="en">Rally Raid</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:b25065d2-98ef-432b-a5c6-fc0244fc0833/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/dakar-decoded-s1-e6</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:a17ef3a6-fbd1-4ea7-ac60-b6707c6bbdbe</episode-num>
+<episode-num system="xmltv_ns">0.5.0</episode-num>
+<episode-num system="original-air-date">2020-04-14 21:55:34</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:b25065d2-98ef-432b-a5c6-fc0244fc0833</episode-num>
 <rating system="Red Bull TV">
 <value>NR</value>
 </rating>
-<series-desc lang="en">Danny MacAskill explores the lost Argentinian town that has been submerged for most of the past 25 years.</series-desc>
+<series-desc lang="en">Take a look at the Truck category of Dakar Rally featuring, of course, the legendary Russian Kamaz trucks.</series-desc>
 </programme>
-<programme start="20200413030823 +0000" stop="20200413035107 +0000" channel="10001">
-<title lang="en">Follow the Fraser</title>
-<sub-title lang="en">A mountain bike excursion into the unknown</sub-title>
-<desc lang="en">Three star mountain bikers follow the Fraser River north through Canada, building and riding features along the way. Their trek takes them past their hometowns towards unridden territory and an unknown destination that holds a secret.</desc>
-<icon src="https://resources.redbull.tv/rrn:content:films:c31573cb-52b0-547d-9b01-21d64e375b5b/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/films/follow-the-fraser</url>
-<episode-num system="redbull.com">episode/rrn:content:films:c31573cb-52b0-547d-9b01-21d64e375b5b</episode-num>
+<programme start="20200415141051 +0000" stop="20200415141433 +0000" channel="10001">
+<title lang="en">Dakar Decoded</title>
+<sub-title lang="en">Road ahead to Saudi</sub-title>
+<desc lang="en">After races in Europe, Africa and South America, Dakar heads to the Middle East for the next five years. Drivers and riders are looking towards the new challenges.</desc>
+<category lang="en">Rally Raid</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:b25065d2-98ef-432b-a5c6-fc0244fc0833/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/dakar-decoded-s1-e7</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:881b7285-346c-480f-8f81-dbcf5e12b9db</episode-num>
+<episode-num system="xmltv_ns">0.6.0</episode-num>
+<episode-num system="original-air-date">2020-04-14 21:58:05</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:b25065d2-98ef-432b-a5c6-fc0244fc0833</episode-num>
 <rating system="Red Bull TV">
 <value>NR</value>
 </rating>
-<series-desc lang="en">Three professional mountain bikers travel north through Canada, riding their way toward the unknown.</series-desc>
+<series-desc lang="en">After races in Europe, Africa and South America, Dakar heads to the Middle East for the next five years.</series-desc>
 </programme>
-<programme start="20200413035107 +0000" stop="20200413044538 +0000" channel="10001">
-<title lang="en">Drop Everything</title>
-<sub-title lang="en">A fun-filled freeskiing adventure</sub-title>
-<desc lang="en">With tongues firmly in cheeks, Matchstick Productions present a light-hearted approach to the passion behind slope-side action. Sit back and enjoy stunning scenery, awesome tricks from world-class skiers and belly-laughing comedy.</desc>
-<category lang="en">Skiing</category>
-<icon src="https://resources.redbull.tv/rrn:content:films:a2b00db1-aba3-558e-9a76-8ea0b8b90aba/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/films/drop-everything</url>
-<episode-num system="redbull.com">episode/rrn:content:films:a2b00db1-aba3-558e-9a76-8ea0b8b90aba</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">Matchstick Productions present a light-hearted approach to slope-side action, featuring world-class skiers.</series-desc>
-</programme>
-<programme start="20200413044538 +0000" stop="20200413050038 +0000" channel="10001">
-<title lang="en">Iron to the Core</title>
-<sub-title lang="en">The Sebastian Kienle Story</sub-title>
-<desc lang="en">Decorated long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete. From preparation to race day, it&apos;s a life spent enduring gruelling trials, but every small success makes the arduous journey worth it.</desc>
-<category lang="en">Ironman</category>
-<icon src="https://resources.redbull.tv/rrn:content:films:d9a858c8-3b79-559d-96dc-4e06e4be7f61/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/films/iron-to-the-core</url>
-<episode-num system="redbull.com">episode/rrn:content:films:d9a858c8-3b79-559d-96dc-4e06e4be7f61</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete.</series-desc>
-</programme>
-<programme start="20200413050038 +0000" stop="20200413050819 +0000" channel="10001">
-<title lang="en">Skate Escape</title>
-<sub-title lang="en">Heartbeats to Heaven Episode 2</sub-title>
-<desc lang="en">Angelo Caro, Maxim Habanec, Tyler Surrey and Giovanni Vianna meet the tiny skate scenes of Paraguay in the first ever pro skate tour of this mysterious and exotic nation.</desc>
-<category lang="en">Skateboarding</category>
-<icon src="https://resources.redbull.tv/rrn:content:shows:6f73e73c-ed24-5309-b45b-2a5dbdeed2e4/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/episodes/skate-escape-s2-e5</url>
-<episode-num system="redbull.com">episode/rrn:content:episode-videos:009743ae-a0d7-4ace-9be4-6de83d9cf172</episode-num>
-<episode-num system="xmltv_ns">1.4.0</episode-num>
-<episode-num system="original-air-date">2020-04-13 17:00:38</episode-num>
-<episode-num system="redbull.com">show/rrn:content:shows:6f73e73c-ed24-5309-b45b-2a5dbdeed2e4</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">Angelo Caro, Maxim Habanec, Tyler Surrey and Giovanni Vianna meet Paraguay&apos;s skate scenes.</series-desc>
-</programme>
-<programme start="20200413050819 +0000" stop="20200413053108 +0000" channel="10001">
-<title lang="en">People Watching</title>
-<sub-title lang="en">Billabong Pipe Masters</sub-title>
-<desc lang="en">Be a fly on the wall at the Billabong Pipe Masters 2019 – get inside the action to hear the conversations, see the preparations and share the excitement.</desc>
-<category lang="en">Surfing</category>
-<icon src="https://resources.redbull.tv/rrn:content:shows:ecc7a790-acab-4704-bd40-e4b54d7c9a12/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/episodes/people-watching-s1-e2</url>
-<episode-num system="redbull.com">episode/rrn:content:episode-videos:7365eada-569e-4091-8e7c-663e50e88ad9</episode-num>
-<episode-num system="xmltv_ns">0.1.0</episode-num>
-<episode-num system="original-air-date">2020-04-13 17:08:19</episode-num>
-<episode-num system="redbull.com">show/rrn:content:shows:ecc7a790-acab-4704-bd40-e4b54d7c9a12</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">Be a fly on the wall at the Volcom House during Billabong Pipe Masters 2019 in Oahu, Hawaii.</series-desc>
-</programme>
-<programme start="20200413053108 +0000" stop="20200413060423 +0000" channel="10001">
-<title lang="en">The Cut</title>
-<sub-title lang="en">Looking for musical chemistry</sub-title>
-<desc lang="en">S1 E1 – Songwriters Nic Da Kid, Lily Kiing and Piers James get randomly paired up with producers Melle Brown, TwoSeven and Tokyo the Producer in this round as they work together to create an original track.</desc>
+<programme start="20200415141433 +0000" stop="20200415143144 +0000" channel="10001">
+<title lang="en">Diggin&apos; in the Carts</title>
+<sub-title lang="en">The Outer Reaches of 8-Bit</sub-title>
+<desc lang="en">Thanks to advanced technologies during Japan&apos;s &apos;Bubble Era&apos;, companies like Konami and Sunsoft were able to push video game music to the next level by creating thicker sounds and creatively combining different musical genres.</desc>
 <category lang="en">Music</category>
-<icon src="https://resources.redbull.tv/rrn:content:shows:4455c94c-ce68-4c25-8d75-72cb125d2e99/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/episodes/the-cut-s1-e1</url>
-<episode-num system="redbull.com">episode/rrn:content:episode-videos:23300695-d174-4c9d-8daa-0606d9217b9d</episode-num>
-<episode-num system="xmltv_ns">0.0.0</episode-num>
-<episode-num system="original-air-date">2020-04-13 17:31:08</episode-num>
-<episode-num system="redbull.com">show/rrn:content:shows:4455c94c-ce68-4c25-8d75-72cb125d2e99</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">S1 E1 – Songwriters get randomly paired up with producers as they work together to create an original track.</series-desc>
-</programme>
-<programme start="20200413060423 +0000" stop="20200413063650 +0000" channel="10001">
-<title lang="en">4 Waves 1 Hour</title>
-<sub-title lang="en">The Story of Mick Fanning&apos;s 2013 ASP Title</sub-title>
-<desc lang="en">The 2013 ASP World Championship was a battle between Kelly Slater and Mick Fanning that all came down to just four waves in two 30-minute heats. Mick&apos;s journey to the title is narrated by the man himself in an intimate and dramatic look at his win.</desc>
-<category lang="en">Surfing</category>
-<icon src="https://resources.redbull.tv/rrn:content:films:7f8fa204-874b-5aa5-ba8b-46d44429d090/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/films/4-waves-1-hour</url>
-<episode-num system="redbull.com">episode/rrn:content:films:7f8fa204-874b-5aa5-ba8b-46d44429d090</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">A battle between Kelly Slater and Mick Fanning came down to just four waves in two 30-minute heats.</series-desc>
-</programme>
-<programme start="20200413063650 +0000" stop="20200413072603 +0000" channel="10001">
-<title lang="en">Aconcagua: A New Chance</title>
-<sub-title lang="en">Dare to dream</sub-title>
-<desc lang="en">Follow ultra-marathoner Fernanda Maciel as she travels to Argentina and attempts to become the first woman to climb up and down one of the highest mountains on the planet, the Aconcagua, in one day.</desc>
-<category lang="en">Climbing</category>
-<icon src="https://resources.redbull.tv/rrn:content:films:cddc4510-0f8b-5bef-b7f3-f259773992a5/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/films/aconcagua-a-new-chance</url>
-<episode-num system="redbull.com">episode/rrn:content:films:cddc4510-0f8b-5bef-b7f3-f259773992a5</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">Runner Fernanda Maciel aims to be the first woman to climb up and down a 6,961m mountain in a day.</series-desc>
-</programme>
-<programme start="20200413072603 +0000" stop="20200413073207 +0000" channel="10001">
-<title lang="en">Dance Like</title>
-<sub-title lang="en">Fabgirl</sub-title>
-<desc lang="en">Fabgirl left soccer for dance and has been empowered by breaking in so many ways. For Fabgirl dancing is like oxygen and she needs it to survive.</desc>
-<category lang="en">Dance</category>
-<icon src="https://resources.redbull.tv/rrn:content:shows:d73fa798-9941-47c3-91ba-d1bcc17fe677/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/episodes/dance-like-fabgirl</url>
-<episode-num system="redbull.com">episode/rrn:content:episode-videos:5710b88b-f7aa-4985-b132-b2beb170b6b6</episode-num>
-<episode-num system="xmltv_ns">0.0.0</episode-num>
-<episode-num system="original-air-date">2020-04-13 19:26:03</episode-num>
-<episode-num system="redbull.com">show/rrn:content:shows:d73fa798-9941-47c3-91ba-d1bcc17fe677</episode-num>
-<rating system="Red Bull TV">
-<value>NR</value>
-</rating>
-<series-desc lang="en">Fabgirl left soccer for dance and has been empowered by breaking in so many ways.</series-desc>
-</programme>
-<programme start="20200413073207 +0000" stop="20200413073639 +0000" channel="10001">
-<title lang="en">Dance Like</title>
-<sub-title lang="en">Renanted</sub-title>
-<desc lang="en">Renanted comes from a rough area but chose to put his time and energy into the positive outlet of dance and has built a life for himself popping.</desc>
-<category lang="en">Dance</category>
-<icon src="https://resources.redbull.tv/rrn:content:shows:d73fa798-9941-47c3-91ba-d1bcc17fe677/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/episodes/dance-like-renanted</url>
-<episode-num system="redbull.com">episode/rrn:content:episode-videos:e8d50a60-119c-4184-b6be-09b2d3bd6008</episode-num>
+<icon src="https://resources.redbull.tv/rrn:content:shows:308a1d5f-2bb3-50d1-b8b7-371ff7407787/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/the-outer-reaches-of-8-bit-diggin-in-the-carts-s01-e02</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:5daec531-1980-5d15-9e14-152be39e22aa</episode-num>
 <episode-num system="xmltv_ns">0.1.0</episode-num>
-<episode-num system="original-air-date">2020-04-13 19:32:07</episode-num>
-<episode-num system="redbull.com">show/rrn:content:shows:d73fa798-9941-47c3-91ba-d1bcc17fe677</episode-num>
+<episode-num system="original-air-date">2020-04-14 22:01:47</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:308a1d5f-2bb3-50d1-b8b7-371ff7407787</episode-num>
 <rating system="Red Bull TV">
 <value>NR</value>
 </rating>
-<series-desc lang="en">Renanted put his time and energy into the positive outlet of dance and has built a life for himself.</series-desc>
+<series-desc lang="en">Discover how Konami and Sunsoft&apos;s bold musical choices pushed Japanese video game music forward.</series-desc>
 </programme>
-<programme start="20200413073639 +0000" stop="20200413074724 +0000" channel="10001">
-<title lang="en">Esports Unfold</title>
-<sub-title lang="en">Topias &apos;Topson&apos; Taavitsainen</sub-title>
-<desc lang="en">Two years after joining Team OG from relative obscurity, Finland&apos;s Topias &apos;Topson&apos; Taavitsainen helped lead them to successive titles at The International. But what does the future hold for  him?</desc>
-<icon src="https://resources.redbull.tv/rrn:content:shows:7043aace-c291-5a13-8705-1e4fa720c620/rbtv_cover_art_portrait" />
-<url>https://www.redbull.com/int-en/episodes/esports-unfold-s3-e2</url>
-<episode-num system="redbull.com">episode/rrn:content:episode-videos:c705f846-db62-404c-bbb2-1b9cefd72ada</episode-num>
-<episode-num system="xmltv_ns">2.1.0</episode-num>
-<episode-num system="original-air-date">2020-04-13 19:36:39</episode-num>
-<episode-num system="redbull.com">show/rrn:content:shows:7043aace-c291-5a13-8705-1e4fa720c620</episode-num>
+<programme start="20200415143144 +0000" stop="20200415145859 +0000" channel="10001">
+<title lang="en">Electric Shorts</title>
+<sub-title lang="en">Fact or Fiction</sub-title>
+<desc lang="en">Director Asif Kapadia introduces four short films that blur the lines between the factual and the imaginary. These films ably employ tricks from both types of filmmaking to tell their unique stories.</desc>
+<category lang="en">Culture</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:e59b3c4e-fbb3-52fe-8fe5-3a565c8238a7/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/fact-or-fiction-electric-shorts-s01-e09</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:a1527010-57d1-525b-b707-7ef4c07c4046</episode-num>
+<episode-num system="xmltv_ns">0.8.0</episode-num>
+<episode-num system="original-air-date">2020-04-14 22:19:02</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:e59b3c4e-fbb3-52fe-8fe5-3a565c8238a7</episode-num>
 <rating system="Red Bull TV">
 <value>NR</value>
 </rating>
-<series-desc lang="en">What does the future hold for Finland&apos;s Topias &apos;Topson&apos; Taavitsainen after successive titles at TI?</series-desc>
+<series-desc lang="en">Film director Asif Kapadia presents four short films that blur the lines between documentary and fiction.</series-desc>
 </programme>
-<programme start="20200413074724 +0000" stop="20200413075524 +0000" channel="10001">
+<programme start="20200415145859 +0000" stop="20200415152602 +0000" channel="10001">
+<title lang="en">Electric Shorts</title>
+<sub-title lang="en">Passion &amp; Genius</sub-title>
+<desc lang="en">Director Asif Kapadia introduces three short films that encounter revolutionary human subjects. A mix of documentary and narrative drama, these films all couple a focus on remarkable individuals with sharp visual storytelling.</desc>
+<category lang="en">Culture</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:e59b3c4e-fbb3-52fe-8fe5-3a565c8238a7/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/passion-and-genius-electric-shorts-s01-e10</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:768659cf-f02c-5277-94b5-b01eaabef991</episode-num>
+<episode-num system="xmltv_ns">0.9.0</episode-num>
+<episode-num system="original-air-date">2020-04-14 22:45:48</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:e59b3c4e-fbb3-52fe-8fe5-3a565c8238a7</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Film director Asif Kapadia presents a trio of short films that celebrate extraordinary people.</series-desc>
+</programme>
+<programme start="20200415152602 +0000" stop="20200415153314 +0000" channel="10001">
+<title lang="en">Faces of Dav</title>
+<sub-title lang="en">The Mountaineer</sub-title>
+<desc lang="en">It took Chris Davenport four years to climb every 14,000-foot peak in Colorado, United States. Then he turned his attention to an even loftier goal: climbing the Centennial Peaks of Colorado, the 100 highest peaks in the state. </desc>
+<category lang="en">Skiing</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:ffd3a55c-2847-5e9f-ad84-5401972c77a9/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/the-mountaineer-faces-of-dav-s01-e06</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:00248dfa-eb89-539b-937e-a7b99c1e9776</episode-num>
+<episode-num system="xmltv_ns">0.5.0</episode-num>
+<episode-num system="original-air-date">2020-04-14 23:13:21</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:ffd3a55c-2847-5e9f-ad84-5401972c77a9</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Once Chris Davenport conquered every 14,000-foot peak in Colorado, USA, he set his eyes on the highest 100.</series-desc>
+</programme>
+<programme start="20200415153314 +0000" stop="20200415154019 +0000" channel="10001">
+<title lang="en">Faces of Dav</title>
+<sub-title lang="en">The Powder Hound</sub-title>
+<desc lang="en">Chris and crew go skiing in the burgeoning ski town of Revelstoke, B.C. before heading out for some runs in the backcountry. Dav shows you don&apos;t need exotic trips to enjoy skiing with friends.</desc>
+<category lang="en">Skiing</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:ffd3a55c-2847-5e9f-ad84-5401972c77a9/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/the-powder-hound-faces-of-dav-s01-e07</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:ed676d51-d4f5-5888-b7c0-f7270603cac5</episode-num>
+<episode-num system="xmltv_ns">0.6.0</episode-num>
+<episode-num system="original-air-date">2020-04-14 23:20:33</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:ffd3a55c-2847-5e9f-ad84-5401972c77a9</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Chris Davenport does all that he does to have fun skiing, and skiing powder is where he&apos;s at his happiest.</series-desc>
+</programme>
+<programme start="20200415154019 +0000" stop="20200415154818 +0000" channel="10001">
 <title lang="en">Faces of Dav</title>
 <sub-title lang="en">The Legend</sub-title>
 <desc lang="en">Chris &apos;Dav&apos; Davenport is a professional skier, an adventurer, and a mountaineer. He has mastered nearly every aspect of the sport, and his biggest adventure yet is trying to ski Mount Everest.</desc>
@@ -258,7 +166,141 @@
 </rating>
 <series-desc lang="en">Chris Davenport&apos;s innovative career and repeated personal reinvention has earned him much-deserved respect.</series-desc>
 </programme>
-<programme start="20200413075524 +0000" stop="20200413084000 +0000" channel="10001">
+<programme start="20200415154818 +0000" stop="20200415161650 +0000" channel="10001">
+<title lang="en">Hubertusjagd SE4</title>
+<sub-title lang="en">Dakar, Senegal</sub-title>
+<desc lang="en">Original host of the toughest motorsports rally in the world, Dakar, Senegal is a powerful and colourful city. Hubertus von Hohenlohe explores the local markets for food, fashion and art.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hubertusjagd-s3-e4</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:6c069091-321a-4b9e-9924-ec021dfb0f5d</episode-num>
+<episode-num system="original-air-date">2020-04-14 23:35:37</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Hubertus von Hohenlohe explores the markets for food, fashion and art in Dakar, Senegal.</series-desc>
+</programme>
+<programme start="20200415161650 +0000" stop="20200415162613 +0000" channel="10001">
+<title lang="en">Hotel Uzbekistan</title>
+<sub-title lang="en">From a hotel to a yurt</sub-title>
+<desc lang="en">A group of skateboarders travel to Uzbekistan seeking adventure, from jumping into rivers, to getting familiar with the local metro and finding undiscovered skate spots the country has to offer.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hotel-uzbekistan-s1-e1</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:a6cb6272-0082-4739-81d1-3281b70a6a5f</episode-num>
+<episode-num system="xmltv_ns">0.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:13:09</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Vladik Scholz, Rob Wootton, Ethan Loy and Pasha Kuznetsov travel to Uzbekistan seeking adventure.</series-desc>
+</programme>
+<programme start="20200415162613 +0000" stop="20200415163427 +0000" channel="10001">
+<title lang="en">Hotel Uzbekistan</title>
+<sub-title lang="en">Heading out west</sub-title>
+<desc lang="en">The crew head west on a train to explore a new part of Uzbekistan and see what skate spots it has to offer. As they get to their next location they step into a whole new culture.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hotel-uzbekistan-s1-e2</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:b941f31b-880e-425c-96e7-0e00e22f625e</episode-num>
+<episode-num system="xmltv_ns">0.1.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:22:33</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">The crew head west on a train to explore a new part of Uzbekistan and see what skate spots it has to offer.</series-desc>
+</programme>
+<programme start="20200415163427 +0000" stop="20200415164625 +0000" channel="10001">
+<title lang="en">Hotel Uzbekistan</title>
+<sub-title lang="en">Keep on charting new terrain</sub-title>
+<desc lang="en">From attempting a heart-pounding new trick, to riding camels and sleeping in a yurt, the skate crew continue to find once-in-a-lifetime adventure on their journey through Uzbekistan.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hotel-uzbekistan-s1-e3</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:a426ac5e-4dca-4ced-a538-3fefb6fe456e</episode-num>
+<episode-num system="xmltv_ns">0.2.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:30:47</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">The guys continue to find once-in-a-lifetime adventure on their journey through Uzbekistan.</series-desc>
+</programme>
+<programme start="20200415164625 +0000" stop="20200415171443 +0000" channel="10001">
+<title lang="en">Hubertusjagd</title>
+<sub-title lang="en">Naples</sub-title>
+<desc lang="en">Hubertus von Hohenlohe takes you on a tour of Italy&apos;s third largest city, Naples – the home of pizza and the capital of traditional Italian music. Join Hubertus as he explores Naples&apos;s art and culture.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hubertusjagd-s3-e1</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:1383f67f-4cb9-4688-886a-10c089bf7dff</episode-num>
+<episode-num system="xmltv_ns">2.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:40:48</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Hubertus von Hohenlohe is your guide to the Italian city of Naples.</series-desc>
+</programme>
+<programme start="20200415171443 +0000" stop="20200415174508 +0000" channel="10001">
+<title lang="en">Hubertusjagd</title>
+<sub-title lang="en">Amsterdam</sub-title>
+<desc lang="en">Hubertus von Hohenlohe hits the city of Amsterdam, the Netherlands, in style as he explores a one-of-a-kind hotel room, tries the local cuisine, checks out a new neighbourhood and much more.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hubertusjagd-s3-e2</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:c3e00e46-2ff1-46c2-9d31-3e77fcfcb276</episode-num>
+<episode-num system="xmltv_ns">2.1.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 21:09:06</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Hubertus von Hohenlohe hits the city of Amsterdam, the Netherlands, in style as he explores the trendy city.</series-desc>
+</programme>
+<programme start="20200415174508 +0000" stop="20200415191756 +0000" channel="10001">
+<title lang="en">Don&apos;t Crack Under Pressure</title>
+<sub-title lang="en">Make it or break it</sub-title>
+<desc lang="en">Whether it&apos;s freeriding the steepest mountains, freediving the depths of the ocean or wingsuit flying over uncharted territory, the pressure for extreme athletes to perform is a force stronger than gravity. When the time comes, will they crumble?</desc>
+<category lang="en">Winter Sports</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:0bb0d05d-9246-55a1-bd07-72bc37f3ccc3/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/dont-crack-under-pressure</url>
+<episode-num system="redbull.com">episode/rrn:content:films:0bb0d05d-9246-55a1-bd07-72bc37f3ccc3</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">A team of extreme athletes embark on a quest to perform perilous feats in challenging conditions.</series-desc>
+</programme>
+<programme start="20200415191756 +0000" stop="20200415194610 +0000" channel="10001">
+<title lang="en">Crossing Corsica</title>
+<sub-title lang="en">The GR20 Trail Quest</sub-title>
+<desc lang="en">French ultrarunner and winemaker François d’Haene attempts to cross Corsica from north to south along the legendary 180km-long GR20 mountain trail in world record-breaking time – under 31 hours and 6 minutes.</desc>
+<category lang="en">Ultrarunning</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:49b14034-f79b-5e98-804d-77fe48741cc7/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/crossing-corsica</url>
+<episode-num system="redbull.com">episode/rrn:content:films:49b14034-f79b-5e98-804d-77fe48741cc7</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Ultrarunner François d’Haene attempts to break the record for running the 180km GR20 trail.</series-desc>
+</programme>
+<programme start="20200415194610 +0000" stop="20200415202025 +0000" channel="10001">
+<title lang="en">In House</title>
+<sub-title lang="en">The road to Volcom Pipe Pro</sub-title>
+<desc lang="en">The Volcom Houses prepare for Volcom Pipe Pro as the wind picks up. As much as they can plan and prepare for the event, they can&apos;t control the Banzai Pipeline, Hawaii&apos;s legendary surf reef break.</desc>
+<category lang="en">Surfing</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9c74694d-18e7-5c00-9843-788df2a889c2/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/tv/video/AP-1QWH9RW892111/the-road-to-volcom-pipe-pro</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:69d8096f-9baf-581f-804f-bb3e6c1462e2</episode-num>
+<episode-num system="xmltv_ns">1.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 23:38:34</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9c74694d-18e7-5c00-9843-788df2a889c2</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">In Hawaii, the two Volcom Houses prepare for Volcom Pipe Pro as the wind picks up.</series-desc>
+</programme>
+<programme start="20200415202025 +0000" stop="20200415210431 +0000" channel="10001">
 <title lang="en">Driving Dirty</title>
 <sub-title lang="en">Final Preparations</sub-title>
 <desc lang="en">With the start of the Baja 1000 just 16 days away, the teams go through their numerous final preparations. Race qualification, equipment readiness, sponsorship deals, must all be taken care of, not to mention time for mental preparation.</desc>
@@ -273,7 +315,7 @@
 </rating>
 <series-desc lang="en">With just 16 days left until The Baja 1000, the teams go through their numerous final preparations.</series-desc>
 </programme>
-<programme start="20200413084000 +0000" stop="20200413090203 +0000" channel="10001">
+<programme start="20200415210431 +0000" stop="20200415212708 +0000" channel="10001">
 <title lang="en">Liquid Science</title>
 <sub-title lang="en">Living Forever</sub-title>
 <desc lang="en">In his quest to understand the human desire to live forever, American rapper GZA finds out how bodies are stored in Arizona, visits a California lab studying the immortal hydra, and goes to Vermont’s transhumanist Terasem Foundation.</desc>
@@ -289,7 +331,7 @@
 </rating>
 <series-desc lang="en">American rapper GZA is on a quest to understand the age-old human desire to live forever.</series-desc>
 </programme>
-<programme start="20200413090203 +0000" stop="20200413091105 +0000" channel="10001">
+<programme start="20200415212708 +0000" stop="20200415213611 +0000" channel="10001">
 <title lang="en">My Other Life</title>
 <sub-title lang="en">Orlando von Einsiedel</sub-title>
 <desc lang="en">Learn how snowboarding took British film director Orlando von Einsiedel from dry slopes in London to going around the world to make several Oscar-nominated documentaries, and eventually to winning an Oscar himself.</desc>
@@ -304,5 +346,627 @@
 <value>NR</value>
 </rating>
 <series-desc lang="en">See how film director Orlando von Einsiedel travelled the world to make Oscar-nominated documentaries.</series-desc>
+</programme>
+<programme start="20200415213611 +0000" stop="20200415214147 +0000" channel="10001">
+<title lang="en">My Other Life</title>
+<sub-title lang="en">Danny Larsen</sub-title>
+<desc lang="en">Witness Danny Larsen&apos;s trajectory from pro snowboarder to illustration artist – and what lesson he learned from snowboarding to dare the leap into creative arts.</desc>
+<category lang="en">Snowboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:c74a9008-c440-5d2a-b032-529d4f7ac03a/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/danny-larsen-my-other-life-s01-e02</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:53e0ee7f-26d8-5b20-8f87-cb1560e444bd</episode-num>
+<episode-num system="xmltv_ns">0.1.0</episode-num>
+<episode-num system="original-air-date">2020-04-13 21:11:05</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:c74a9008-c440-5d2a-b032-529d4f7ac03a</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Witness Danny Larsen&apos;s trajectory from pro snowboarder to illustration artist.</series-desc>
+</programme>
+<programme start="20200415214147 +0000" stop="20200415214838 +0000" channel="10001">
+<title lang="en">My Other Life</title>
+<sub-title lang="en">Eva Sandelgard</sub-title>
+<desc lang="en">Swedish Eve Sandelgard is a triple extreme snowboarding world champion and an haute couture hairdresser. Hear the story of her double life, from first female descents down Mont Blanc, France and Denali (Mt McKinley), Alaska to Paris Fashion Week.</desc>
+<category lang="en">Snowboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:c74a9008-c440-5d2a-b032-529d4f7ac03a/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/eva-sandelgard-my-other-life-s01-e03</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:9665b99c-9ad2-53ad-a2b7-76e3af286bd5</episode-num>
+<episode-num system="xmltv_ns">0.2.0</episode-num>
+<episode-num system="original-air-date">2020-04-13 21:16:42</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:c74a9008-c440-5d2a-b032-529d4f7ac03a</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">The Swedish freerider talks about the thrills of extreme snowboarding and dressing hair at Paris Fashion Week.</series-desc>
+</programme>
+<programme start="20200415214838 +0000" stop="20200415220159 +0000" channel="10001">
+<title lang="en">24 hours with Kiddy Smile</title>
+<sub-title lang="en">The Parisian voguing scene icon</sub-title>
+<desc lang="en">Kiddy Smile is first and foremost a one-of-a-kind character. The performer plays around with his musical and physical identities, mixing genres and influences. With the release of his debut album, One Trick Pony, Kiddy is set to take centre stage.</desc>
+<category lang="en">Music</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:ee8cbef0-3004-521d-937f-243dc8ad24b1/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/24-hours-with-kiddy-smile</url>
+<episode-num system="redbull.com">episode/rrn:content:films:ee8cbef0-3004-521d-937f-243dc8ad24b1</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">With the release of his debut album, One Trick Pony, Kiddy Smile is set to take centre stage.</series-desc>
+</programme>
+<programme start="20200415220159 +0000" stop="20200415223456 +0000" channel="10001">
+<title lang="en">4 Waves 1 Hour</title>
+<sub-title lang="en">The story of Mick Fanning&apos;s 2013 ASP title</sub-title>
+<desc lang="en">The 2013 ASP World Championship was a battle between Kelly Slater and Mick Fanning that all came down to just four waves in two 30-minute heats. Mick&apos;s journey to the title is narrated by the man himself in an intimate and dramatic look at his win.</desc>
+<category lang="en">Surfing</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:7f8fa204-874b-5aa5-ba8b-46d44429d090/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/tv/film/AP-1NVECZUH51W11/4-waves-1-hour</url>
+<episode-num system="redbull.com">episode/rrn:content:films:7f8fa204-874b-5aa5-ba8b-46d44429d090</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">A battle between Kelly Slater and Mick Fanning came down to just four waves in two 30-minute heats.</series-desc>
+</programme>
+<programme start="20200415223456 +0000" stop="20200415224156 +0000" channel="10001">
+<title lang="en">Chasing Summer</title>
+<sub-title lang="en">The Fog</sub-title>
+<desc lang="en">After waking up in the gorgeous Scorpion Bay, Mexico, with some relaxing paddle boarding, Kendall Norman and Quinn Cody head through the salt flats to the lush oasis of San Ignacio, Belize, then into the deep fog of Guerrero Negro, Mexico.</desc>
+<category lang="en">Motocross</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:7330b965-b918-5358-b6b2-10f3ddfce70f/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/the-fog-chasing-summer-s01-e08</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:12ba7de5-ded9-5c77-8a62-5a1b37454f1d</episode-num>
+<episode-num system="xmltv_ns">0.7.0</episode-num>
+<episode-num system="original-air-date">2020-04-13 22:09:27</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:7330b965-b918-5358-b6b2-10f3ddfce70f</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Kendall Norman and Quinn Cody cross the salt flats into the heavy fog of Guerrero Negro, Mexico.</series-desc>
+</programme>
+<programme start="20200415224156 +0000" stop="20200415225107 +0000" channel="10001">
+<title lang="en">Chasing Summer</title>
+<sub-title lang="en">We Live It, Love It, and Pin It!</sub-title>
+<desc lang="en">Quinn Cody and Kendall Norman leave the foggy coast and head north into the hot and dry Baja interior, tearing up some sand dunes along the way. After navigating a dangerous route, the duo returns to the original roadside market where the trip began.</desc>
+<category lang="en">Motocross</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:7330b965-b918-5358-b6b2-10f3ddfce70f/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/we-live-it-love-it-and-pin-it-chasing-summer-s01-e09</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:17de9057-5e18-50e3-a1bf-98f40b9bb366</episode-num>
+<episode-num system="xmltv_ns">0.8.0</episode-num>
+<episode-num system="original-air-date">2020-04-13 22:16:27</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:7330b965-b918-5358-b6b2-10f3ddfce70f</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Leaving the foggy coast behind, Quinn Cody and Kendall Norman head into the Baja interior to ride sand dunes.</series-desc>
+</programme>
+<programme start="20200415225107 +0000" stop="20200415225934 +0000" channel="10001">
+<title lang="en">Chasing Summer</title>
+<sub-title lang="en">Back to Business</sub-title>
+<desc lang="en">As their epic journey comes to a close, it&apos;s time for Kendall Norman and Quinn Cody to get back to business. The task at hand: defending their champion status in the legendary Baja 1000, a 1,000-mile nonstop race across the Baja California peninsula.</desc>
+<category lang="en">Motocross</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:7330b965-b918-5358-b6b2-10f3ddfce70f/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/back-to-business-chasing-summer-s01-e10</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:25be66b8-3920-5ecb-a5ee-e11f4d127f56</episode-num>
+<episode-num system="xmltv_ns">0.9.0</episode-num>
+<episode-num system="original-air-date">2020-04-13 22:25:38</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:7330b965-b918-5358-b6b2-10f3ddfce70f</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Kendall Norman’s and Quinn Cody&apos;s epic adventure wraps up in time for them to defend their Baja 1000 titles.</series-desc>
+</programme>
+<programme start="20200415225934 +0000" stop="20200416000206 +0000" channel="10001">
+<title lang="en">Days of My Youth</title>
+<sub-title lang="en">Lifetimes built around skiing</sub-title>
+<desc lang="en">The feeling of eternal youth that skiers get from doing what they love is the central theme of this two-year project from Matchstick Productions. Starring some of the most progressive skiers, this film shows the trials and triumphs of being the best.</desc>
+<category lang="en">Skiing</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:b03f1424-306c-5977-a21e-76850cb9e4e0/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/days-of-my-youth</url>
+<episode-num system="redbull.com">episode/rrn:content:films:b03f1424-306c-5977-a21e-76850cb9e4e0</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Matchstick Productions&apos; two-year project follows top skiers around the world chasing what they love: snow.</series-desc>
+</programme>
+<programme start="20200416000206 +0000" stop="20200416003233 +0000" channel="10001">
+<title lang="en">Bomba Beach</title>
+<sub-title lang="en">A Puerto Rico dance trip</sub-title>
+<desc lang="en">Hosts Niki Awandee and Niek Traa connect with Puerto Rican locals to become their students, learn about the bomba dance style and its culture, and integrate them into their own style. Will they be able to live up to their teachers’ expectations?</desc>
+<category lang="en">Dance</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:3b371e6f-95f9-5b52-bcf3-3cb826194822/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/bomba-beach-1</url>
+<episode-num system="redbull.com">episode/rrn:content:films:3b371e6f-95f9-5b52-bcf3-3cb826194822</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Two young hip-hop strutters travel to Puerto Rico to explore the bomba dance style and the culture around it.</series-desc>
+</programme>
+<programme start="20200416003233 +0000" stop="20200416005050 +0000" channel="10001">
+<title lang="en">MX World</title>
+<sub-title lang="en">A new season begins</sub-title>
+<desc lang="en">As the 2019 MX campaign begins, there are contrasting fortunes for Jeffrey Herlings, Tom Vialle, Jorge Prado and Toni Cairoli. Find out how the season starts for each rider.</desc>
+<category lang="en">Motorbike Supermoto</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:b89f5248-4e06-52a3-a0bc-c4e41a46871a/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/mx-world-s2-e1</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:58238e64-d8dd-4820-a8a1-29bbe33fd23e</episode-num>
+<episode-num system="xmltv_ns">1.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-13 05:13:56</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:b89f5248-4e06-52a3-a0bc-c4e41a46871a</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Go behind the scenes with motocross&apos;s top riders at the start of the 2019 season.</series-desc>
+</programme>
+<programme start="20200416005050 +0000" stop="20200416005509 +0000" channel="10001">
+<title lang="en">Mates in Alaska</title>
+<sub-title lang="en">Disc Golf and Slam Dunks</sub-title>
+<desc lang="en">When the weather doesn&apos;t cooperate for snowboarding, it&apos;s time to find other distractions. Jake and Roland spend a down day hanging out with some wolves, playing disc golf, riding old snowmobiles, and having a good-old fashioned Alaskan bonfire.</desc>
+<category lang="en">Snowboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:f02f1212-1ec3-59d0-aa01-dbc62f89c264/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/disc-golf-and-slam-dunks-mates-in-alaska-s01-e04</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:21f3299a-cee3-5fe5-bb4c-085a4dc8b255</episode-num>
+<episode-num system="xmltv_ns">0.3.0</episode-num>
+<episode-num system="original-air-date">2020-04-13 05:31:50</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:f02f1212-1ec3-59d0-aa01-dbc62f89c264</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">The snowboarding mates spend a day meeting the wildlife, playing disc golf, and racing vintage snowmobiles.</series-desc>
+</programme>
+<programme start="20200416005509 +0000" stop="20200416010007 +0000" channel="10001">
+<title lang="en">Mates in Alaska</title>
+<sub-title lang="en">Final Powder Sessions</sub-title>
+<desc lang="en">Snowboarders Jake and Roland spend their last days in Alaska doing what they came to do: ride epic terrain. The last lines of the trip confirm what they always suspected – that this was going to be a life-changing experience for them and their crew.</desc>
+<category lang="en">Snowboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:f02f1212-1ec3-59d0-aa01-dbc62f89c264/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/final-powder-sessions-mates-in-alaska-s01-e05</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:a580ad37-563f-5c28-b4a3-03fa8e2558ae</episode-num>
+<episode-num system="xmltv_ns">0.4.0</episode-num>
+<episode-num system="original-air-date">2020-04-13 05:36:10</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:f02f1212-1ec3-59d0-aa01-dbc62f89c264</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">It&apos;s last call for snowfall as Jake and Roland spend their last days in Alaska riding as much as they can.</series-desc>
+</programme>
+<programme start="20200416010007 +0000" stop="20200416010930 +0000" channel="10001">
+<title lang="en">Hotel Uzbekistan</title>
+<sub-title lang="en">From a hotel to a yurt</sub-title>
+<desc lang="en">A group of skateboarders travel to Uzbekistan seeking adventure, from jumping into rivers, to getting familiar with the local metro and finding undiscovered skate spots the country has to offer.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hotel-uzbekistan-s1-e1</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:a6cb6272-0082-4739-81d1-3281b70a6a5f</episode-num>
+<episode-num system="xmltv_ns">0.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:13:09</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Vladik Scholz, Rob Wootton, Ethan Loy and Pasha Kuznetsov travel to Uzbekistan seeking adventure.</series-desc>
+</programme>
+<programme start="20200416010930 +0000" stop="20200416011744 +0000" channel="10001">
+<title lang="en">Hotel Uzbekistan</title>
+<sub-title lang="en">Heading out west</sub-title>
+<desc lang="en">The crew head west on a train to explore a new part of Uzbekistan and see what skate spots it has to offer. As they get to their next location they step into a whole new culture.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hotel-uzbekistan-s1-e2</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:b941f31b-880e-425c-96e7-0e00e22f625e</episode-num>
+<episode-num system="xmltv_ns">0.1.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:22:33</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">The crew head west on a train to explore a new part of Uzbekistan and see what skate spots it has to offer.</series-desc>
+</programme>
+<programme start="20200416011744 +0000" stop="20200416012942 +0000" channel="10001">
+<title lang="en">Hotel Uzbekistan</title>
+<sub-title lang="en">Keep on charting new terrain</sub-title>
+<desc lang="en">From attempting a heart-pounding new trick, to riding camels and sleeping in a yurt, the skate crew continue to find once-in-a-lifetime adventure on their journey through Uzbekistan.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hotel-uzbekistan-s1-e3</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:a426ac5e-4dca-4ced-a538-3fefb6fe456e</episode-num>
+<episode-num system="xmltv_ns">0.2.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:30:47</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">The guys continue to find once-in-a-lifetime adventure on their journey through Uzbekistan.</series-desc>
+</programme>
+<programme start="20200416012942 +0000" stop="20200416015730 +0000" channel="10001">
+<title lang="en">Hubertusjagd</title>
+<sub-title lang="en">Naples</sub-title>
+<desc lang="en">Hubertus von Hohenlohe takes you on a tour of Italy&apos;s third largest city, Naples – the home of pizza and the capital of traditional Italian music. Join Hubertus as he explores Naples&apos;s art and culture.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hubertusjagd-s3-e1</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:1383f67f-4cb9-4688-886a-10c089bf7dff</episode-num>
+<episode-num system="xmltv_ns">2.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:40:48</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Hubertus von Hohenlohe is your guide to the Italian city of Naples.</series-desc>
+</programme>
+<programme start="20200416015730 +0000" stop="20200416022602 +0000" channel="10001">
+<title lang="en">Hubertusjagd</title>
+<sub-title lang="en">Amsterdam</sub-title>
+<desc lang="en">Hubertus von Hohenlohe hits the city of Amsterdam, the Netherlands, in style as he explores a one-of-a-kind hotel room, tries the local cuisine, checks out a new neighbourhood and much more.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hubertusjagd-s3-e2</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:c3e00e46-2ff1-46c2-9d31-3e77fcfcb276</episode-num>
+<episode-num system="xmltv_ns">2.1.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 21:09:06</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Hubertus von Hohenlohe hits the city of Amsterdam, the Netherlands, in style as he explores the trendy city.</series-desc>
+</programme>
+<programme start="20200416022602 +0000" stop="20200416035915 +0000" channel="10001">
+<title lang="en">Don&apos;t Crack Under Pressure</title>
+<sub-title lang="en">Make it or break it</sub-title>
+<desc lang="en">Whether it&apos;s freeriding the steepest mountains, freediving the depths of the ocean or wingsuit flying over uncharted territory, the pressure for extreme athletes to perform is a force stronger than gravity. When the time comes, will they crumble?</desc>
+<category lang="en">Winter Sports</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:0bb0d05d-9246-55a1-bd07-72bc37f3ccc3/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/dont-crack-under-pressure</url>
+<episode-num system="redbull.com">episode/rrn:content:films:0bb0d05d-9246-55a1-bd07-72bc37f3ccc3</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">A team of extreme athletes embark on a quest to perform perilous feats in challenging conditions.</series-desc>
+</programme>
+<programme start="20200416035915 +0000" stop="20200416042659 +0000" channel="10001">
+<title lang="en">Crossing Corsica</title>
+<sub-title lang="en">The GR20 Trail Quest</sub-title>
+<desc lang="en">French ultrarunner and winemaker François d’Haene attempts to cross Corsica from north to south along the legendary 180km-long GR20 mountain trail in world record-breaking time – under 31 hours and 6 minutes.</desc>
+<category lang="en">Ultrarunning</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:49b14034-f79b-5e98-804d-77fe48741cc7/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/crossing-corsica</url>
+<episode-num system="redbull.com">episode/rrn:content:films:49b14034-f79b-5e98-804d-77fe48741cc7</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Ultrarunner François d’Haene attempts to break the record for running the 180km GR20 trail.</series-desc>
+</programme>
+<programme start="20200416042659 +0000" stop="20200416050019 +0000" channel="10001">
+<title lang="en">In House</title>
+<sub-title lang="en">The road to Volcom Pipe Pro</sub-title>
+<desc lang="en">The Volcom Houses prepare for Volcom Pipe Pro as the wind picks up. As much as they can plan and prepare for the event, they can&apos;t control the Banzai Pipeline, Hawaii&apos;s legendary surf reef break.</desc>
+<category lang="en">Surfing</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9c74694d-18e7-5c00-9843-788df2a889c2/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/tv/video/AP-1QWH9RW892111/the-road-to-volcom-pipe-pro</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:69d8096f-9baf-581f-804f-bb3e6c1462e2</episode-num>
+<episode-num system="xmltv_ns">1.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 23:38:34</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9c74694d-18e7-5c00-9843-788df2a889c2</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">In Hawaii, the two Volcom Houses prepare for Volcom Pipe Pro as the wind picks up.</series-desc>
+</programme>
+<programme start="20200416050019 +0000" stop="20200416050959 +0000" channel="10001">
+<title lang="en">Epecuén</title>
+<sub-title lang="en">A venture into the ruins</sub-title>
+<desc lang="en">Tragedy struck the town of Epecuén 25 years ago when rains flooded the streets. Now, Danny MacAskill hops on his trials bike to explore the lost Argentinian town, which has been submerged for the majority of time since.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:films:a5c81c76-c17a-506c-b7b3-1392a3af64c5/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/tv/film/AP-1K3H21RU91W11/epecuen</url>
+<episode-num system="redbull.com">episode/rrn:content:films:a5c81c76-c17a-506c-b7b3-1392a3af64c5</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Danny MacAskill explores the lost Argentinian town that has been submerged for most of the past 25 years.</series-desc>
+</programme>
+<programme start="20200416050959 +0000" stop="20200416055313 +0000" channel="10001">
+<title lang="en">Follow the Fraser</title>
+<sub-title lang="en">A mountain bike excursion into the unknown</sub-title>
+<desc lang="en">Three star mountain bikers follow the Fraser River north through Canada, building and riding features along the way. Their trek takes them past their hometowns towards unridden territory and an unknown destination that holds a secret.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:films:c31573cb-52b0-547d-9b01-21d64e375b5b/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/follow-the-fraser</url>
+<episode-num system="redbull.com">episode/rrn:content:films:c31573cb-52b0-547d-9b01-21d64e375b5b</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Three professional mountain bikers travel north through Canada, riding their way toward the unknown.</series-desc>
+</programme>
+<programme start="20200416055313 +0000" stop="20200416063343 +0000" channel="10001">
+<title lang="en">Full Moon</title>
+<sub-title lang="en">The past, present and future of snowboarding</sub-title>
+<desc lang="en">This two-year film project features the world’s best female snowboarders. It pays tribute to the history of women&apos;s snowboarding and showcases how it has influenced and encouraged the current state of the sport.</desc>
+<category lang="en">Snowboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:c82b9742-a6c4-53a3-b0fb-4d16a47d8a25/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/tv/film/AP-1QVQ86MXS1W11/full-moon</url>
+<episode-num system="redbull.com">episode/rrn:content:films:c82b9742-a6c4-53a3-b0fb-4d16a47d8a25</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Women&apos;s snowboarding is in the spotlight in a tribute to the athletes who&apos;ve made the sport what it is today.</series-desc>
+</programme>
+<programme start="20200416063343 +0000" stop="20200416065351 +0000" channel="10001">
+<title lang="en">Liquid Science</title>
+<sub-title lang="en">Virtual Reality</sub-title>
+<desc lang="en">American rapper GZA travels to UCLA and Radiant Images in Los Angeles, United States. Both organisations use virtual reality to augment surgery and media. Later he creates his own virtual avatar at the University of Southern California.</desc>
+<category lang="en">Culture</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:ded70564-182e-532c-9802-bbd681afa22b/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/virtual-reality-liquid-science-s01-e03</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:27029acb-49cb-53fd-bba3-e026e9e1acda</episode-num>
+<episode-num system="xmltv_ns">0.2.0</episode-num>
+<episode-num system="original-air-date">2020-04-16 18:33:43</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:ded70564-182e-532c-9802-bbd681afa22b</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Host GZA explores virtual reality at universities in California, United States.</series-desc>
+</programme>
+<programme start="20200416065351 +0000" stop="20200416074850 +0000" channel="10001">
+<title lang="en">Drop Everything</title>
+<sub-title lang="en">A fun-filled freeskiing adventure</sub-title>
+<desc lang="en">With tongues firmly in cheeks, Matchstick Productions present a light-hearted approach to the passion behind slope-side action. Sit back and enjoy stunning scenery, awesome tricks from world-class skiers and belly-laughing comedy.</desc>
+<category lang="en">Skiing</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:a2b00db1-aba3-558e-9a76-8ea0b8b90aba/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/drop-everything</url>
+<episode-num system="redbull.com">episode/rrn:content:films:a2b00db1-aba3-558e-9a76-8ea0b8b90aba</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Matchstick Productions present a light-hearted approach to slope-side action, featuring world-class skiers.</series-desc>
+</programme>
+<programme start="20200416074850 +0000" stop="20200416080624 +0000" channel="10001">
+<title lang="en">MX World</title>
+<sub-title lang="en">Family support and dedication</sub-title>
+<desc lang="en">Tom Vialle is the newest member of the Red Bull KTM Factory Racing team. Learn the story of how his family are sharing in his dream for MXGP glory.</desc>
+<category lang="en">Motor Sports</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:b89f5248-4e06-52a3-a0bc-c4e41a46871a/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/mx-world-s2-e3-tom-vialle</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:dc2fa4c3-7816-41d8-89a7-2dc320e0bae0</episode-num>
+<episode-num system="xmltv_ns">1.2.0</episode-num>
+<episode-num system="original-air-date">2020-04-16 19:48:50</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:b89f5248-4e06-52a3-a0bc-c4e41a46871a</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Learn the story of how Tom Vialle&apos;s family are sharing in his dream for MXGP glory.</series-desc>
+</programme>
+<programme start="20200416080624 +0000" stop="20200416082104 +0000" channel="10001">
+<title lang="en">Iron to the Core</title>
+<sub-title lang="en">The Sebastian Kienle Story</sub-title>
+<desc lang="en">Decorated long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete. From preparation to race day, it&apos;s a life spent enduring gruelling trials, but every small success makes the arduous journey worth it.</desc>
+<category lang="en">Ironman</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:d9a858c8-3b79-559d-96dc-4e06e4be7f61/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/iron-to-the-core</url>
+<episode-num system="redbull.com">episode/rrn:content:films:d9a858c8-3b79-559d-96dc-4e06e4be7f61</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete.</series-desc>
+</programme>
+<programme start="20200416082104 +0000" stop="20200416084846 +0000" channel="10001">
+<title lang="en">Motorkite Dreaming</title>
+<sub-title lang="en">Blast Off</sub-title>
+<desc lang="en">Aiden Glasby and Daryl Clarke embark on an ambitious adventure across Australia with a pair of modest microlight aircrafts. Accompanied by their fiancées, Lexi and Elsie, and a local guide, Bart, they fly to their first stop: Wardang Island.</desc>
+<category lang="en">Aerial Sports</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:be8f247d-528e-53f7-8bf6-22e3b5494596/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/blast-off-motorkite-dreaming-s01-e01</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:806fa865-4f24-50a3-b142-a9ab965916a3</episode-num>
+<episode-num system="xmltv_ns">0.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-12 23:40:46</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:be8f247d-528e-53f7-8bf6-22e3b5494596</episode-num>
+<rating system="Red Bull TV">
+<value>UR</value>
+</rating>
+<series-desc lang="en">Aiden Glasby and Daryl Clarke embark on an adventure across Australia with modest microlight equipment.</series-desc>
+</programme>
+<programme start="20200416084846 +0000" stop="20200416093715 +0000" channel="10001">
+<title lang="en">In House</title>
+<sub-title lang="en">Chasing the win</sub-title>
+<desc lang="en">Volcom Pipe Pro continues with some bigger names taking their turn. Follow Ian Walsh, Jamie O&apos;Brien and Adriano de Souza, among others, as they take on the legendary Pipeline in Oahu, Hawaii, each of them wanting that victory more than anything.</desc>
+<category lang="en">Surfing</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9c74694d-18e7-5c00-9843-788df2a889c2/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/tv/video/AP-1QWH9S3P92111/in-house-s2-e2</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:11e17f7d-fa7c-5513-93ce-746b7892c391</episode-num>
+<episode-num system="xmltv_ns">1.1.0</episode-num>
+<episode-num system="original-air-date">2020-04-16 20:48:46</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9c74694d-18e7-5c00-9843-788df2a889c2</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Follow the journeys of the world&apos;s greatest surfers as they take on Hawaii&apos;s legendary Banzai Pipeline.</series-desc>
+</programme>
+<programme start="20200416093715 +0000" stop="20200416100509 +0000" channel="10001">
+<title lang="en">Hubertusjagd SE6</title>
+<sub-title lang="en">Medellin, Colombia</sub-title>
+<desc lang="en">Hubertus von Hohenlohe makes his way to one of the top locations to visit in South America – Medellin, Colombia. He digs into the history and the way this city has transformed in recent years.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hubertusjagd-s3-e6</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:d197c265-ff72-4ac7-973a-e48688c11619</episode-num>
+<episode-num system="original-air-date">2020-04-16 21:37:15</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Hubertus von Hohenlohe discovers the historic and cultural treasures of Medellin, Colombia.</series-desc>
+</programme>
+<programme start="20200416100509 +0000" stop="20200416101400 +0000" channel="10001">
+<title lang="en">I am the Engine</title>
+<sub-title lang="en">Raízs</sub-title>
+<desc lang="en">Raízs is a farm-to-table e-commerce platform that connects consumers to healthier food and the people who grow it. This builds bonds between farmers and the people who eat their crops.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:43d51d92-70e0-44d6-85e4-d2fc18f51176/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/i-am-the-engine-s1-e8-raizs</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:5836b3f8-70db-4c88-a5b6-7a5fa7c86e1e</episode-num>
+<episode-num system="xmltv_ns">0.7.0</episode-num>
+<episode-num system="original-air-date">2020-04-16 22:05:09</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:43d51d92-70e0-44d6-85e4-d2fc18f51176</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Raízs is a farm-to-table platform that connects consumers to healthier food and the people who grow it.</series-desc>
+</programme>
+<programme start="20200416101400 +0000" stop="20200416102129 +0000" channel="10001">
+<title lang="en">I am the Engine</title>
+<sub-title lang="en">Homeboy Industries</sub-title>
+<desc lang="en">An organisation in Los Angeles is transforming the lives of former gang members through community and hope. Homeboy Industries allows people a chance to go from “shedding blood to baking bread”.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:43d51d92-70e0-44d6-85e4-d2fc18f51176/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/i-am-the-engine-s1-e8-homeboy-industries</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:fc65ef1b-acb2-44cc-99aa-e795ebfccfc3</episode-num>
+<episode-num system="xmltv_ns">0.7.0</episode-num>
+<episode-num system="original-air-date">2020-04-16 22:14:00</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:43d51d92-70e0-44d6-85e4-d2fc18f51176</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">An organisation in Los Angeles is transforming the lives of former gang members through community and hope.</series-desc>
+</programme>
+<programme start="20200416102129 +0000" stop="20200416102943 +0000" channel="10001">
+<title lang="en">Keep Your Tips Up</title>
+<sub-title lang="en">Spring is in the Air</sub-title>
+<desc lang="en">Sean and Callum Pettit, and snowboarders Eric and John Jackson take advantage of Whistler’s epic springtime powder. Back in town, the boys rip it up in the skate park by day while Groovemeister hops in the wresting ring by night.</desc>
+<category lang="en">Winter Sports</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:3fcd8ca8-e74d-5d22-b11e-58644b80dbaa/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/spring-is-in-the-air-keep-your-tips-up-s02-e06</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:8a5a9447-e196-5bb1-b085-4c4d15e994a4</episode-num>
+<episode-num system="xmltv_ns">1.5.0</episode-num>
+<episode-num system="original-air-date">2020-04-16 22:21:29</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:3fcd8ca8-e74d-5d22-b11e-58644b80dbaa</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">It’s springtime in Canada, and the Pettit bros are taking full advantage of Whistler’s epic conditions.</series-desc>
+</programme>
+<programme start="20200416102943 +0000" stop="20200416104249 +0000" channel="10001">
+<title lang="en">Keep Your Tips Up</title>
+<sub-title lang="en">Movie Magic</sub-title>
+<desc lang="en">Sean sets the scene for his ambitious new skiing concept at the Revelstoke Mountain Resort in British Columbia, Canada. It’s a project full of never-before-seen features, top skiing talent, and epic explosions taken straight from an action film.</desc>
+<category lang="en">Skiing</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:3fcd8ca8-e74d-5d22-b11e-58644b80dbaa/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/AP-1MVUN2DYH1W11</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:145e1bba-a2ae-53d5-bd21-b3ce8c14cdd3</episode-num>
+<episode-num system="xmltv_ns">1.6.0</episode-num>
+<episode-num system="original-air-date">2020-04-16 22:29:43</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:3fcd8ca8-e74d-5d22-b11e-58644b80dbaa</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Keep Your Tips Up S2E7</series-desc>
+</programme>
+<programme start="20200416104249 +0000" stop="20200416110401 +0000" channel="10001">
+<title lang="en">Escape. Create.</title>
+<sub-title lang="en">Building the hardest downhill trail</sub-title>
+<desc lang="en">Something of a creative genius, mountain biker Dan Atherton designs intense, difficult trails for himself and his brother Gee, and sister Rachel. Watch as they perform amazing tricks on Dan&apos;s highly technical courses.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:films:686b61ef-00eb-5f0b-a55f-a52c893519fe/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/escape-create</url>
+<episode-num system="redbull.com">episode/rrn:content:films:686b61ef-00eb-5f0b-a55f-a52c893519fe</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Dan Atherton designs intense BMX trails for himself and his sibling, brother Gee and sister Rachel.</series-desc>
+</programme>
+<programme start="20200416110401 +0000" stop="20200416115710 +0000" channel="10001">
+<title lang="en">Finding the Line</title>
+<sub-title lang="en">A heartfelt journey on the edge of big mountains</sub-title>
+<desc lang="en">Olympian and X Games Slopestyle champion Anna Segal and her Freeride World Tour, big mountain skiing sister, Nat Segal, use their skiing to understand fear and how it manifests in their lives.</desc>
+<category lang="en">Freeskiing Freeride</category>
+<icon src="https://resources.redbull.tv/rrn:content:films:107e968e-aaf8-48e7-92c5-248af6a0e080/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/films/finding-the-line-film</url>
+<episode-num system="redbull.com">episode/rrn:content:films:107e968e-aaf8-48e7-92c5-248af6a0e080</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Anna Segal and Nat Segal use their skiing to understand fear and how it manifests in their lives.</series-desc>
+</programme>
+<programme start="20200416115710 +0000" stop="20200416120259 +0000" channel="10001">
+<title lang="en">Let&apos;s Get It Wright</title>
+<sub-title lang="en">Planet Jupiter</sub-title>
+<desc lang="en">After winning the Phoenix Am, Red Bull&apos;s Zion Wright became a national name in skateboarding. Zion returns home to Jupiter, Florida, United States, to spend time with his family and prep for the upcoming Tampa Am.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:16889a9e-e6d5-57fb-9c1d-68813d7eaa54/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/planet-jupiter-lets-get-it-wright-s01-e01</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:8d611f4e-3886-5b5f-9564-b5a4cb24e54a</episode-num>
+<episode-num system="xmltv_ns">0.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-13 03:14:15</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:16889a9e-e6d5-57fb-9c1d-68813d7eaa54</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Skateboarder Zion Wright returns home to Jupiter, Florida, USA, for some family time and competition prep.</series-desc>
+</programme>
+<programme start="20200416120259 +0000" stop="20200416121222 +0000" channel="10001">
+<title lang="en">Hotel Uzbekistan</title>
+<sub-title lang="en">From a hotel to a yurt</sub-title>
+<desc lang="en">A group of skateboarders travel to Uzbekistan seeking adventure, from jumping into rivers, to getting familiar with the local metro and finding undiscovered skate spots the country has to offer.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hotel-uzbekistan-s1-e1</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:a6cb6272-0082-4739-81d1-3281b70a6a5f</episode-num>
+<episode-num system="xmltv_ns">0.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:13:09</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Vladik Scholz, Rob Wootton, Ethan Loy and Pasha Kuznetsov travel to Uzbekistan seeking adventure.</series-desc>
+</programme>
+<programme start="20200416121222 +0000" stop="20200416122037 +0000" channel="10001">
+<title lang="en">Hotel Uzbekistan</title>
+<sub-title lang="en">Heading out west</sub-title>
+<desc lang="en">The crew head west on a train to explore a new part of Uzbekistan and see what skate spots it has to offer. As they get to their next location they step into a whole new culture.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hotel-uzbekistan-s1-e2</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:b941f31b-880e-425c-96e7-0e00e22f625e</episode-num>
+<episode-num system="xmltv_ns">0.1.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:22:33</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">The crew head west on a train to explore a new part of Uzbekistan and see what skate spots it has to offer.</series-desc>
+</programme>
+<programme start="20200416122037 +0000" stop="20200416123235 +0000" channel="10001">
+<title lang="en">Hotel Uzbekistan</title>
+<sub-title lang="en">Keep on charting new terrain</sub-title>
+<desc lang="en">From attempting a heart-pounding new trick, to riding camels and sleeping in a yurt, the skate crew continue to find once-in-a-lifetime adventure on their journey through Uzbekistan.</desc>
+<category lang="en">Skateboarding</category>
+<icon src="https://resources.redbull.tv/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hotel-uzbekistan-s1-e3</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:a426ac5e-4dca-4ced-a538-3fefb6fe456e</episode-num>
+<episode-num system="xmltv_ns">0.2.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:30:47</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:13d006ae-48cb-4d0a-96b5-8e1ea94c3e31</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">The guys continue to find once-in-a-lifetime adventure on their journey through Uzbekistan.</series-desc>
+</programme>
+<programme start="20200416123235 +0000" stop="20200416130021 +0000" channel="10001">
+<title lang="en">Hubertusjagd</title>
+<sub-title lang="en">Naples</sub-title>
+<desc lang="en">Hubertus von Hohenlohe takes you on a tour of Italy&apos;s third largest city, Naples – the home of pizza and the capital of traditional Italian music. Join Hubertus as he explores Naples&apos;s art and culture.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hubertusjagd-s3-e1</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:1383f67f-4cb9-4688-886a-10c089bf7dff</episode-num>
+<episode-num system="xmltv_ns">2.0.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 20:40:48</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Hubertus von Hohenlohe is your guide to the Italian city of Naples.</series-desc>
+</programme>
+<programme start="20200416130021 +0000" stop="20200416132829 +0000" channel="10001">
+<title lang="en">Hubertusjagd</title>
+<sub-title lang="en">Amsterdam</sub-title>
+<desc lang="en">Hubertus von Hohenlohe hits the city of Amsterdam, the Netherlands, in style as he explores a one-of-a-kind hotel room, tries the local cuisine, checks out a new neighbourhood and much more.</desc>
+<icon src="https://resources.redbull.tv/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508/rbtv_cover_art_portrait" />
+<url>https://www.redbull.com/int-en/episodes/hubertusjagd-s3-e2</url>
+<episode-num system="redbull.com">episode/rrn:content:episode-videos:c3e00e46-2ff1-46c2-9d31-3e77fcfcb276</episode-num>
+<episode-num system="xmltv_ns">2.1.0</episode-num>
+<episode-num system="original-air-date">2020-04-15 21:09:06</episode-num>
+<episode-num system="redbull.com">show/rrn:content:shows:9530568d-afd8-52a8-8dd0-517c21760508</episode-num>
+<rating system="Red Bull TV">
+<value>NR</value>
+</rating>
+<series-desc lang="en">Hubertus von Hohenlohe hits the city of Amsterdam, the Netherlands, in style as he explores the trendy city.</series-desc>
 </programme>
 </tv>
